@@ -432,7 +432,7 @@ header nav .form i:hover {
 @media (max-width: 767px) {
     .portfolio .shuffle li {
         font-size: 15px;
-        padding: 10px 13px;
+        padding: 10px;
     }
 }
 .portfolio .shuffle li.active,
