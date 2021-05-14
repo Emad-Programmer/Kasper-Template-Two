@@ -28,6 +28,8 @@ html {
 }
 body {
     font-family: "Open Sans", sans-serif;
+    margin: 0;
+    overflow-x: hidden;
 }
 ul {
     list-style: none;
